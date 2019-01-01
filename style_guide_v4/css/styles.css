@@ -1,3 +1,4 @@
+/** Global Imports **/
 /** you can only apply styles to three different elements directly:
 
 the universal selector (*)
@@ -343,5 +344,22 @@ template {
 [hidden] {
   display: none;
 }
+
+/** Grid Class Selectors **/
+/** Typography Class Selectors **/
+/** Navigation Class Selectors **/
+/** Image Class Selectors **/
+/** Buttons Class Selectors **/
+/** Forms **/
+/** Variables
+* At minimum, create variables for fonts, breakpoints, and colors.
+**/
+/** Mixins
+* Media Queries and Flexbox Settings
+**/
+/** Placeholders
+* Links, Images, Headlines, Nav Items
+**/
+/** Functions **/
 
 /*# sourceMappingURL=styles.css.map */
